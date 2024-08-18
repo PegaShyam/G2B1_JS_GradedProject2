@@ -19,5 +19,5 @@ function handlesubmit(){
 
     localStorage.setItem('user', JSON.stringify(user));
 
-    window.location = "./resume.html"
+    window.location = "/templates/resume.html"
 }
